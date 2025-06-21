@@ -26,7 +26,7 @@ Enhanced crossword puzzle with improved visual styling and empty cell handling.
 ---
 
 #### KenKen Logic Puzzle
-**File**: [`Puzzles/kenken.js`](./Puzzles/kenken.js)
+**File**: [`Puzzles/kenken.js`](./Puzzles/kenKen.js)
 
 Interactive implementation of the popular KenKen logic puzzle, combining elements of Sudoku with arithmetic constraints.
 
